@@ -28,6 +28,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
+
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Rails-app-for-API <a name="about-project"></a>
